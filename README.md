@@ -64,4 +64,11 @@ Network monitoring is the use of a system that constantly monitors a [computer n
 * [Brave](https://brave.com/)
 * [CCleaner](https://www.ccleaner.com/de-de/ccleaner/browser)
 * [Chrome](https://www.google.com/intl/en_en/chrome/)
+* [Comodo](https://www.comodo.com/home/browsers-toolbars/browser.php)
+* [Epic](https://epicbrowser.com/)
+* [Mozilla Firefox](https://www.firefox.com/en-US/)
+
+
+
+
 
