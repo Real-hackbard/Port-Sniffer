@@ -69,6 +69,14 @@ Network monitoring is the use of a system that constantly monitors a [computer n
 * [Mozilla Firefox](https://www.firefox.com/en-US/)
 * [Internet Explorer](https://www.microsoft.com/en-us/download/internet-explorer)
 * [Iridium](https://iridiumbrowser.de/downloads/)
+* [Maxthon](https://www.maxthon.com/en/download)
+* [Opera](https://www.opera.com/de/download)
+* [Palemoon](https://www.palemoon.org/download.shtml)
+* Safari - Support Closed
+* [Tor](https://www.torproject.org/download/)
+* [UR](https://www.ur-browser.com/en-us/)
+* [Vivaldi](https://vivaldi.com/de/download/)
+* 
 
 
 
