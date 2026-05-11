@@ -61,4 +61,7 @@ Network monitoring is the use of a system that constantly monitors a [computer n
 * Cookies
 
 # Browser Monitoring
+* [Brave](https://brave.com/)
+* [CCleaner](https://www.ccleaner.com/de-de/ccleaner/browser)
+* [Chrome](https://www.google.com/intl/en_en/chrome/)
 
