@@ -79,7 +79,8 @@ Network monitoring is the use of a system that constantly monitors a [computer n
 * [Waterfox](https://www.waterfox.com/download/)
 * [Yandex](https://browser.yandex.com/)
 
-
+# hosts file
+The computer file hosts is an operating system file that maps [hostnames](https://en.wikipedia.org/wiki/Hostname) to IP addresses. It is a plain text file. Originally a file named HOSTS.TXT was manually maintained and made available via file sharing by Stanford Research Institute for the [ARPANET](https://en.wikipedia.org/wiki/ARPANET) membership, containing the hostnames and address of hosts as contributed for inclusion by member organizations. The [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System), first described in 1983 and implemented in 1984, automated the publication process and provided instantaneous and dynamic hostname resolution in the rapidly growing network. In modern operating systems, the hosts file remains an alternative name resolution mechanism, configurable often as part of facilities such as the Name Service Switch as either the primary method or as a fallback method.
 
 
 
