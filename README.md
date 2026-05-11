@@ -44,8 +44,8 @@ Network monitoring is the use of a system that constantly monitors a [computer n
 
 * TCP
 * UDP
-* ICMP out
-* ICMP in
+* [ICMP out](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol)
+* [ICMP in](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol)
 * [ARP](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)
 * [Listening Ports](https://jumpcloud.com/it-index/what-is-a-listening-port)
 * [IP-Routing](https://en.wikipedia.org/wiki/IP_routing)
