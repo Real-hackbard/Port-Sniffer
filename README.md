@@ -35,6 +35,7 @@ Now, enter the target IP ```18.159.137.176``` into the "hosts" file, which must 
 or  
 * ```0.0.0.0  18.159.137.176```
 
+Once you have completed the entry, your program will no longer be able to connect to the target server.
 
 
 
