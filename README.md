@@ -51,4 +51,14 @@ Network monitoring is the use of a system that constantly monitors a [computer n
 * IP-Routing
 * Adapter Device
 
+# Extras
+* Ping
+* Get Ip from host
+* get host from ip
+* Hops Measurement
+* DNS Report
+* Net Statistics
+* Cookies
+
+# Browser Monitoring
 
