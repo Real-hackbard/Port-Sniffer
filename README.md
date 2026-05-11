@@ -37,7 +37,7 @@ or
 
 Once you have completed the entry, your program will no longer be able to connect to the target server.
 
-This currently prevents communication, but it can also lead to problems if communication is necessary to retrieve data from a server, and the continued operation of the program is not impaired.
+This currently prevents communication, but it can also lead to problems if communication is necessary to retrieve data from a server, and the continued operation of the program is not impaired. Therefore, one should test the functionality of the program to determine whether this is the case.
 
 
 
