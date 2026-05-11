@@ -23,7 +23,7 @@ Many local applications currently in use communicate with internet servers in th
 </br>
 
 # Use:
-Start the sniffer, then launch your program; Port Sniffer will now catalog all the Port & IP addresses your program has connected to—which might look something like this:
+Start the sniffer, then launch your program; Port Sniffer will now catalog all the Ports & IP addresses your program has connected to—which might look something like this:
 
 </br>
 
@@ -33,7 +33,11 @@ Start the sniffer, then launch your program; Port Sniffer will now catalog all t
 
 The program connected to server ```18.159.137.176``` on port ```443``` (TCP) using the network IP ```192.168.1.127``` and port ```49685```.
 
+Now, enter the target IP ```18.159.137.176``` into the "hosts" file, which must look like this:
 
+* ```127.0.0.1  18.159.137.176```
+or
+* ```0.0.0.0  18.159.137.176```
 
 
 
