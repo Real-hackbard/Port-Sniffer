@@ -13,7 +13,7 @@
 
 </br>
 
-Many local applications currently in use communicate with internet servers in the background. This occurs for a variety of reasons. While this communication can take many forms, it often involves the transmission of system-critical—or even personal—data. Anyone wishing to block this entire communication stream, or to identify the specific ports and addresses with which these background applications are exchanging data, can utilize this example. The identified addresses must then subsequently be entered into the system's "hosts" file.
+Many local applications currently in use communicate with internet servers in the background. This occurs for a variety of reasons. While this communication can take many forms, it often involves the transmission of system-critical—or even personal—data. Anyone wishing to block this entire communication stream, or to identify the specific ports and addresses with which these background applications are exchanging data, can utilize this example. The identified addresses must then subsequently be entered into the system's [hosts](https://en.wikipedia.org/wiki/Hosts_(file)) file.
 
 </br>
 
@@ -29,7 +29,7 @@ Start the sniffer, then launch your program; Port Sniffer will now catalog all t
 
 The program connected to server ```18.159.137.176``` on port ```443``` (TCP) using the network IP ```192.168.1.127``` and port ```49685```.
 
-Now, enter the target IP ```18.159.137.176``` into the "hosts" file, which must look like this:
+Now, enter the target IP ```18.159.137.176``` into the [hosts](https://en.wikipedia.org/wiki/Hosts_(file)) file, which must look like this:
 
 * ```127.0.0.1  18.159.137.176```  
 or  
