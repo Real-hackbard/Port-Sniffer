@@ -39,7 +39,8 @@ Once you have completed the entry, your program will no longer be able to connec
 
 This currently prevents communication, but it can also lead to problems if communication is necessary to retrieve data from a server, and the continued operation of the program is not impaired. Therefore, one should test the functionality of the program to determine whether this is the case.
 
-
+# Monitorings
+Network monitoring is the use of a system that constantly monitors a [computer network](https://en.wikipedia.org/wiki/Computer_network) for slow or failing components and that notifies the network administrator (via email, SMS or other alarms) in case of outages or other trouble. Network monitoring is part of [network management](https://en.wikipedia.org/wiki/Network_management).
 
 
 
