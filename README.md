@@ -36,7 +36,7 @@ The program connected to server ```18.159.137.176``` on port ```443``` (TCP) usi
 Now, enter the target IP ```18.159.137.176``` into the "hosts" file, which must look like this:
 
 * ```127.0.0.1  18.159.137.176```
-or
+or  
 * ```0.0.0.0  18.159.137.176```
 
 
