@@ -20,6 +20,18 @@ Many local applications currently in use communicate with internet servers in th
 <img src="https://github.com/user-attachments/assets/977159df-8f1c-4535-ae79-40eb3330580b" />
 
 </br>
+</br>
+
+# Use:
+Start the sniffer, then launch your program; Port Sniffer will now catalog all the Port & IP addresses your program has connected to—which might look something like this:
+
+</br>
+
+```25.10.2022 - 19:25:17  Local :  192.168.1.127 : 49685 => Destination : 18.159.137.176 : 443```
+
+</br>
+
+The program connected to server ```18.159.137.176``` on port ```443``` (TCP) using the network IP ```192.168.1.127``` and port ```49685```.
 
 
 
