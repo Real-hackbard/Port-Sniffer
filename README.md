@@ -13,6 +13,15 @@
 
 </br>
 
+Many local applications currently in use communicate with internet servers in the background. This occurs for a variety of reasons. While this communication can take many forms, it often involves the transmission of system-critical—or even personal—data. Anyone wishing to block this entire communication stream, or to identify the specific ports and addresses with which these background applications are exchanging data, can utilize this example. The identified addresses must then subsequently be entered into the system's "hosts" file.
+
+</br>
+
+<img src="https://github.com/user-attachments/assets/977159df-8f1c-4535-ae79-40eb3330580b" />
+
+</br>
+
+
 
 
 
