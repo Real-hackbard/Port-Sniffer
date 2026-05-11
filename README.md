@@ -67,6 +67,8 @@ Network monitoring is the use of a system that constantly monitors a [computer n
 * [Comodo](https://www.comodo.com/home/browsers-toolbars/browser.php)
 * [Epic](https://epicbrowser.com/)
 * [Mozilla Firefox](https://www.firefox.com/en-US/)
+* [Internet Explorer](https://www.microsoft.com/en-us/download/internet-explorer)
+* [Iridium](https://iridiumbrowser.de/downloads/)
 
 
 
