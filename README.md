@@ -76,7 +76,8 @@ Network monitoring is the use of a system that constantly monitors a [computer n
 * [Tor](https://www.torproject.org/download/)
 * [UR](https://www.ur-browser.com/en-us/)
 * [Vivaldi](https://vivaldi.com/de/download/)
-* 
+* [Waterfox](https://www.waterfox.com/download/)
+* [Yandex](https://browser.yandex.com/)
 
 
 
